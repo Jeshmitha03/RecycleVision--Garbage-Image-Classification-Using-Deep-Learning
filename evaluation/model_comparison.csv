@@ -1,0 +1,5 @@
+Model,Test Accuracy,Macro F1-Score,Weighted F1-Score,Test Accuracy (%),Macro F1 (%)
+Baseline CNN,0.6744,0.6328,0.6653,67.44,63.28
+MobileNetV2,0.9283,0.8985,0.9292,92.83,89.85
+MobileNetV2 Fine-tuned,0.9347,0.906,0.9354,93.47,90.60000000000001
+EfficientNetB0,0.9622,0.9488,0.9624,96.22,94.88
